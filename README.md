@@ -5,4 +5,6 @@ We continued learning about conditions with switch-case. We learnt how to use sw
 
 Version alpha has been lost (don't ask how, I did a big dumb, lol)
 
+---
+
 This project has been uploaded primarily for archiving purposes.
